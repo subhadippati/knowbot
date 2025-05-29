@@ -33,13 +33,7 @@ https://github.com/user-attachments/assets/04687db8-13af-4088-8518-594f5f7c5411
 
 ---
 
-## 📋 Steps to Use KnowBot
 
-1. **Clone the repository**
-
-   ```bash
-   git clone [https://github.com/your-username/knowbot_genAI](https://github.com/Sayan2k3/knowbot_genAI/tree/master).git
-   cd knowbot_genAI
 
 
 
