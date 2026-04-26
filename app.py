@@ -10,7 +10,7 @@ st.set_page_config(page_title="KnowBot - ViT Image Classifier", page_icon="🤖"
 # ---------- TITLE SECTION ---------- #
 st.markdown("""
     <h1 style='text-align: center; color: #6C63FF;'>🤖 KnowBot</h1>
-    <h4 style='text-align: center; color: grey;'>Upload an image and let the Vision Transformer tell you what it is!</h4>
+    <h4 style='text-align: center; color: grey;'>Upload an image and let the Vision Transformer tell you what it is among airplane , automobile, bird, cat, deer, dog, frog, horse, ship and truck!</h4>
     <hr style='margin-top: 10px; margin-bottom: 25px;'>
 """, unsafe_allow_html=True)
 
